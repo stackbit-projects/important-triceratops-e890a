@@ -31,7 +31,7 @@ sections:
         actions:
           - label: Shop Now
             url: '#'
-            style: button
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
