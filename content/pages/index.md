@@ -6,7 +6,7 @@ sections:
     section_id: lorem-ipsum
     layout_style: tiles
     projects_number: 10
-    view_all_label: lorem-ipsum
+    view_all_label: Shop Now
     view_all_url: '#'
     type: section_portfolio
     subtitle: '-Benjamin Franklin'
