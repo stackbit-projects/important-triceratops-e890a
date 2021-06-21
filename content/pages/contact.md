@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - IG Promotion
-          - Sponsorship
+          - Website Sponsorship
           - Other
       - input_type: textarea
         name: message
