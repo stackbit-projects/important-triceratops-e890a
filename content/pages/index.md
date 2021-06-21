@@ -14,7 +14,7 @@ sections:
       - title: Kitchen
         image_alt: lorem-ipsum
         content: |
-          ### Lorem ipsum dolor sit amet
+          ##### Lorem ipsum dolor sit amet
         actions:
           - label: Shop Now
             url: '#'
