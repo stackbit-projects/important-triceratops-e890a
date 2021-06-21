@@ -22,9 +22,16 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: www.veggies-box.com
+          - label: More Info
             url: '#'
             style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
+          - label: lorem-ipsum
+            url: '#'
+            style: link
             icon: dribbble
             new_window: false
             no_follow: false
