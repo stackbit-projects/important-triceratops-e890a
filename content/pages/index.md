@@ -99,7 +99,7 @@ sections:
     type: section_grid
   - title: 'For every minute spent in organizing, an hour is earned.'
     section_id: lorem-ipsum
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 6
     view_all_label: lorem-ipsum
     view_all_url: '#'
