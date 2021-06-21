@@ -24,7 +24,7 @@ sections:
         actions:
           - label: More Info
             url: '#'
-            style: button
+            style: link
             icon: dribbble
             new_window: false
             no_follow: false
