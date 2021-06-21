@@ -117,7 +117,7 @@ sections:
         type: grid_item
     type: section_grid
 seo:
-  title: Stackbit Exto Theme
+  title: Organize Ways
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
