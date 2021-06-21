@@ -8,7 +8,6 @@ sections:
     actions: []
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     is_numbered: true
     grid_items:
