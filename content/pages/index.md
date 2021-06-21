@@ -17,7 +17,7 @@ sections:
           ##### Lorem ipsum dolor sit amet
         actions:
           - label: Shop Now
-            url: '#'
+            url: www.veggies-box.com
             style: button
             icon: dribbble
             new_window: false
