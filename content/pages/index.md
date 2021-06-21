@@ -49,7 +49,7 @@ sections:
             url: www.veggies-box.com
             style: button
             icon: dribbble
-            new_window: false
+            new_window: true
             no_follow: false
             type: action
         type: grid_item
