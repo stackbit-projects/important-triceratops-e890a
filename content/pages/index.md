@@ -31,6 +31,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/5.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
