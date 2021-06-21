@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
     actions: []
-  - title: lorem-ipsum
+  - title: Latest items
     section_id: lorem-ipsum
     col_number: three
     is_numbered: true
