@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'For every minute spent in organizing, an hour is earned'
+    title: 'For every minute spent in organizing, an hour is earned.'
     actions: []
   - title: Latest items
     section_id: lorem-ipsum
