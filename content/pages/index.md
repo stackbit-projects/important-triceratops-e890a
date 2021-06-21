@@ -61,6 +61,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/5.jpg
     type: section_grid
 seo:
   title: Stackbit Exto Theme
