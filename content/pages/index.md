@@ -116,20 +116,6 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: More Info
-        url: '#'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_posts
 seo:
   title: Organize Ways
   description: Organize Ways
