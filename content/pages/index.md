@@ -9,7 +9,7 @@ sections:
   - title: Latest items
     section_id: lorem-ipsum
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: lorem-ipsum
         image_alt: lorem-ipsum
