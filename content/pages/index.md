@@ -118,7 +118,7 @@ sections:
     type: section_grid
 seo:
   title: Organize Ways
-  description: The preview of the Exto theme
+  description: Organize Ways
   extra:
     - name: 'og:type'
       value: website
