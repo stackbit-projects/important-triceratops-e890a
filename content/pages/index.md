@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: 'For every minute spent in organizing, an hour is earned.'
     section_id: lorem-ipsum
-    layout_style: tiles
+    layout_style: mosaic
     projects_number: 10
     view_all_label: Shop Now
     view_all_url: '#'
