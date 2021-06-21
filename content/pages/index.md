@@ -104,6 +104,7 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
+    subtitle: '-Benjamin Franklin'
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
