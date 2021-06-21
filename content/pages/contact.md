@@ -23,7 +23,7 @@ sections:
         is_required: true
       - input_type: text
         name: Instagram Account
-        label: lorem-ipsum
+        label: Instagram
         default_value: lorem-ipsum
         options: []
         is_required: false
