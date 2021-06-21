@@ -10,7 +10,7 @@ sections:
     view_all_url: '#'
     type: section_portfolio
     subtitle: '-Benjamin Franklin'
-  - title: lorem-ipsum
+  - title: 'For every minute spent in organizing, an hour is earned.'
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
