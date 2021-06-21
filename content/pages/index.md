@@ -99,7 +99,7 @@ sections:
     type: section_grid
   - title: 'For every minute spent in organizing, an hour is earned.'
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: '-Benjamin Franklin'
     layout_style: mosaic
     projects_number: 6
     view_all_label: lorem-ipsum
