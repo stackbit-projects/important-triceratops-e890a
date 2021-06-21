@@ -14,8 +14,6 @@ sections:
       - title: Kitchen
         image_alt: lorem-ipsum
         content: |
-          [www.veggies-box.com](www.veggies-box.com)
-
           ##### Lorem ipsum dolor sit amet
         actions:
           - label: Shop Now
