@@ -5,7 +5,7 @@ sections:
   - title: 'For every minute spent in organizing, an hour is earned.'
     section_id: lorem-ipsum
     layout_style: tiles
-    projects_number: 6
+    projects_number: 10
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
