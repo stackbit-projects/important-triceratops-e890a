@@ -9,6 +9,13 @@ sections:
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    is_numbered: false
+    grid_items: []
+    type: section_grid
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
