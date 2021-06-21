@@ -45,7 +45,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: More Info
             url: '#'
             style: button
             icon: dribbble
