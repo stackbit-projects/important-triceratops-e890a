@@ -22,7 +22,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img_alt": "Organize Ways"
     },
     "footer": {
         "content": "&copy 2021 Organize Ways ® Inc. All rights reserved.",
