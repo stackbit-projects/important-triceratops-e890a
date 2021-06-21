@@ -12,7 +12,7 @@ sections:
     subtitle: '-Benjamin Franklin'
   - title: 'For every minute spent in organizing, an hour is earned.'
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: '-Benjamin Franklin'
     col_number: three
     is_numbered: false
     grid_items:
