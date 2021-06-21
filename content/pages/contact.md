@@ -24,7 +24,7 @@ sections:
       - input_type: text
         name: Instagram Account
         label: Instagram
-        default_value: lorem-ipsum
+        default_value: Your Instagram account
         options: []
         is_required: false
         type: form_field
