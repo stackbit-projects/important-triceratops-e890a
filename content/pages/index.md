@@ -121,7 +121,14 @@ sections:
     subtitle: lorem-ipsum
     posts_number: 3
     col_number: three
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: section_posts
 seo:
   title: Organize Ways
