@@ -35,7 +35,14 @@ sections:
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: /images/3.jpg
       - title: lorem-ipsum
