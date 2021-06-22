@@ -13,14 +13,7 @@ sections:
         content: >
           ###### Keep your fruits and vegetables fresh with these storage
           containers
-        actions:
-          - url: 'https://veggies-box.com'
-            style: button
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
-            label: 'https://veggies-box.com'
+        actions: []
         type: grid_item
         image: /images/image_2021-06-23_012047.png
       - title: lorem-ipsum
