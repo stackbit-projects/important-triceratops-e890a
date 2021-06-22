@@ -30,7 +30,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-        image: /images/5.jpg
+        image: /images/image_2021-06-23_012047.png
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
