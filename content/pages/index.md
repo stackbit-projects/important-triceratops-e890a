@@ -15,7 +15,7 @@ sections:
           containers
         actions:
           - label: More Info
-            url: www.veggies
+            url: www.veggies-box.com
             style: link
             icon: dribbble
             new_window: false
