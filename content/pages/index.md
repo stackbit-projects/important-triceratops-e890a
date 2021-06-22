@@ -14,7 +14,7 @@ sections:
           ###### Keep your fruits and vegetables fresh with these storage
           containers
         actions:
-          - url: '#'
+          - url: 'https://veggies-box.com'
             style: button
             icon: dribbble
             new_window: false
