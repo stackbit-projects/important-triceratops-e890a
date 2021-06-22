@@ -15,7 +15,7 @@ sections:
           containers
         actions:
           - label: More Info
-            url: '#'
+            url: www.veggies
             style: link
             icon: dribbble
             new_window: false
