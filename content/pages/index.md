@@ -10,8 +10,9 @@ sections:
     grid_items:
       - title: Veggies Boxes
         image_alt: lorem-ipsum
-        content: |
-          ## Keep your fruits and vegetables fresh with these storage containers
+        content: >
+          ###### Keep your fruits and vegetables fresh with these storage
+          containers
         actions:
           - label: 'https://veggies-box.com'
             url: '#'
