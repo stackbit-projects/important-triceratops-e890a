@@ -14,7 +14,7 @@ sections:
           ###### Keep your fruits and vegetables fresh with these storage
           containers
         actions:
-          - label: lorem-ipsum
+          - label: More Info
             url: '#'
             style: link
             icon: dribbble
